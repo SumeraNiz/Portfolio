@@ -1,0 +1,134 @@
+body 
+{
+    background-color: #79155b;
+}
+
+
+.nav-link
+{
+    font-family: "trocchi";
+    font-size: 18px;
+color: #ffffff;
+
+    
+}
+
+.nav a:hover
+{
+    color: #f6635c;
+    
+}
+
+
+#welcome .name h1
+{
+    background-color: #79155b;
+    font-family: "Abril Fatface";
+    font-size: 120px;
+    color: #ffffff;
+}
+
+#welcome .intro h2
+{
+    float: right;
+    font-family: "Trocchi";
+    font-size: 30px;
+    color: #ffba86;
+}
+
+#welcome .intro p
+{
+    font-family: "Trocchi";
+    font-size: 20px;
+    text-align: right;
+}
+
+.modal
+{
+    background-color:#79155b;
+}
+
+.modal-body
+{
+    background-color: #ffba86;
+    box-shadow: 7px 7px #f6635c;
+}
+
+h3
+{
+    font-size: 30px; 
+    font-family: "Abril-Fatface"; 
+    color: #79155b;
+}
+
+ul
+{
+    background-color: #79155b; 
+    font-size: 15px; 
+    font-family: "Trocchi";
+    color: #ffba86;
+    font-weight: bold;
+}
+
+.btn
+{
+    background-color:#79155b;
+    color:#ffba86 ;
+    font-family: "Abril-Fatface";
+    
+}
+
+.card
+{
+    background-color: #79155b;
+    color: #ffba86;
+    box-shadow: 7px 7px #f6635c;
+}
+
+.aboutme
+{
+    background-color: #79155b;
+    color: #ffba86;
+}
+
+#about p
+{
+    font-family: "Trocchi";
+    color: #ffba86;
+    font-size: 20px;
+    font-weight:lighter;
+    text-align:right;
+}
+
+
+#contact .row .col
+{
+    color: #ffba86;
+}
+
+.side {
+    display: flex;
+    align-items: center;
+    padding: 50px;
+   }
+   
+   .line {
+    width: 20%;
+    border-bottom: 4px solid #f6635c;
+    margin-right: 10px;
+   }
+   
+   .side .name {
+    margin-top: -5px;
+    color: #ffffff;
+    font-size: solid 20px;
+    font-family: "Abril-Fatface";
+   }
+
+   footer
+   {
+    color: #ffffff;
+
+   }
+
+   
